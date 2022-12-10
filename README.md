@@ -7,4 +7,5 @@ Scheme for this code at the moment:
 Games developed at the moment:
 1) Snake
 2) Ping-Pong
+
 You can switch from the main menu.
